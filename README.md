@@ -1,5 +1,7 @@
 # 🎲 Tenzies Game
 
+(./Design.png)
+
 This project is a simple implementation of the classic **Tenzies** game!  
 Roll the dice until all boxes show the same number. You can "hold" (lock) dice to keep their value between rolls, aiming to match them all.
 
